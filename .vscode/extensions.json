@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "VisualStudioExptTeam.vscodeintellicode",
+        "christian-kohler.path-intellisense",
+        "esbenp.prettier-vscode",
+        "dbaeumer.vscode-eslint",
+        "EditorConfig.EditorConfig",
+        "mikestead.dotenv",
+        "eamodio.gitlens",
+        "CoenraadS.bracket-pair-colorizer",
+        "aaron-bond.better-comments"
+    ]
+}

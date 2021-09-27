@@ -1,0 +1,10 @@
+{
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "eslint.workingDirectories": ["."],
+    "eslint.format.enable": true,
+    "eslint.packageManager": "yarn",
+    "eslint.runtime": ""
+}
